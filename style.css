@@ -105,13 +105,13 @@ img{
     }
     
     #main h1:nth-child(2){
-        margin-top: 30vw;
+        margin-top: 50vw;
     }
     img{
-        width: 30vw;
-        height: 35vw;
+        width: 40vw;
+        height: 50vw;
         top: 15%;
-        left: 35%;
+        left: 30%;
     }
    
 }
